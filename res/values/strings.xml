@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather Test</string>
+    <string name="title_currently">Currently</string>
+    <string name="title_hourly">Today</string>
+    <string name="title_daily">This Week</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_no_connection">Cannot Establish Connection</string>
+
+</resources>
